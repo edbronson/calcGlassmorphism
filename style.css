@@ -89,7 +89,7 @@ body::after {
 }
 
 .container .calculator span:active {
-    background: #5f1f44;
+    background: #7a2a59;
     color:#5da9bd;
     font-size: 24px;
     font-weight: 500;
